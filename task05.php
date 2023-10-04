@@ -11,6 +11,4 @@ function calc_average (array $arr) {
     $average = $total / count($arr); 
 
     return round($average, 1); 
-
-
 }
